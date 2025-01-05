@@ -1,4 +1,4 @@
-IP Calculator with Subnetting - Kali Linux Inspired GUI
+IP Calculator with Subnetting - Linux Inspired GUI
 This project is a TCP/IP v4 Addressing Calculator with a modern GUI inspired by the Kali Linux aesthetic. The application allows users to calculate critical information for IPv4 addresses, including:
 
 Network ID
