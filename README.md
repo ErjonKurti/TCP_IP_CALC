@@ -30,8 +30,6 @@ Run the application:
 bash
 Copy code
 python main.py
-Screenshots
-Include screenshots of the application with both input fields and results displayed in the Kali Linux-inspired design.
 
 Future Improvements
 Add IPv6 support.
