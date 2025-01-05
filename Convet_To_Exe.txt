@@ -1,0 +1,2 @@
+pip install pyinstaller
+python -m PyInstaller --onefile --windowed --icon=Rrjeta_icon.ico CalcGUI.py
