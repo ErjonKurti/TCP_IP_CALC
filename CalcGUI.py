@@ -50,7 +50,7 @@ class IP_Calculator_GUI(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle('Kalkulatori i Adresimit TCP/IP V4')
+        self.setWindowTitle('Kalkulatori i Adresimit TCP/IP V3')
         self.setGeometry(100, 100, 800, 320)
         self.setStyleSheet("""
             QWidget {background-color: #1e1e1e; font-family: 'Roboto', sans-serif; color: #e5e5e5;}
