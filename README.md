@@ -17,11 +17,7 @@ Python
 PyQt6 for the GUI
 ipaddress module for IP address calculations
 How to Run
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/ip_calculator_gui.git
-cd ip_calculator_gui
+Clone the repository
 Install the dependencies:
 bash
 Copy code
